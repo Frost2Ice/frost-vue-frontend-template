@@ -1,4 +1,5 @@
-// import './assets/main.css'
+// import './styles/settings.scss'
+// import './styles/custom-font.scss'
 
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
